@@ -1,11 +1,36 @@
 
 
 
-.background {
+.backgroundone {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-image: url("./images/background1.jpg");
+}
+
+.backgroundtwo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("./images/background2.jpg");
+}
+
+.backgroundthree {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("./images/background3.jpg");
+}
+
+.backgroundfour {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("./images/background4.jpg");
 }
 
 
